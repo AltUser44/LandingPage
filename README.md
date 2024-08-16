@@ -1,4 +1,6 @@
 ADOX - Pioneering Technology
+--------------------------------------------------------------------------
+
 
 Overview
 ---------------------------------------------------------------------------
@@ -15,6 +17,8 @@ Features
   * Data Utilization: Offering tools to maximize data usage efficiently.
   * Education and Training: Providing educational programs for technology adaptation.
   * Footer: Includes copyright information.
+
+![Screenshot 2024-08-16 031025](https://github.com/user-attachments/assets/40709aae-cd73-40f6-aa97-d2b3718dc7b3)
 
 
 
