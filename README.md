@@ -11,7 +11,7 @@ Landing Page, ADOX is dedicated to advancing technology globally, making it acce
 Our website showcases our commitment to pioneering tech innovations and providing solutions for global connectivity, data utilization, and education.
 
 Features
---------------------------------------------------------------------------
+--------------------------------
 
   * Header: Features the ADOX logo and a prominent header image.
   * About Us: Details our mission to empower individuals through technology.
@@ -27,6 +27,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact
 For any questions or feedback, please contact kpnkese@gmail.com.
+Have a good one!
 
 
 
